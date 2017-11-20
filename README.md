@@ -1,2 +1,2 @@
 # sphanindrav.github.io
-my first github repository
+My Portfolio built using bootstrap responsive design framework.
